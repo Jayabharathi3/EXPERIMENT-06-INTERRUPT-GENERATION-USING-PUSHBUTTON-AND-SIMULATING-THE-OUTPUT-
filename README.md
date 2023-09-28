@@ -90,7 +90,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 
-```
+``` C
 DEVELOPED BY : JAYABHARATHI . S
 REGISTER NUMBR : 212222100013
 
